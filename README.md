@@ -28,6 +28,13 @@
 
 <br/>
 
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=bishal-1022&&style=flat-square)  
+  
+
+<br/>  
+
 
 <!--
 **bishal-1022/bishal-1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
