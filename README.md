@@ -28,28 +28,33 @@
 
 <br/>
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bishal-1022&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/> 
+<div align="center"><img src="https://github-stats-alpha.vercel.app/api?username=bishal-1022&show_icons=true&count_private=true&hide_border=true" align="center" />
+</div>  
 
-<div align="center">
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bishal-1022&show_icons=true&locale=en&layout=compact" alt="bishal-1022" /></p>
+<br/>
+
+
+
 
 <br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=bishal-1022&&style=flat-square" align="center" />
+<div align="center"><img src="https://komarev.com/ghpvc/?username=bishal-1022&&style=flat-square" align="center" />
 </div>  
 
 <br/>  
 
+<div align="center">
 
+### Show some ❤️ by Starring some of the repositories!
+### Thank You!
+</div>
 <!--
 **bishal-1022/bishal-1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
