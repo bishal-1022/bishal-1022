@@ -37,18 +37,20 @@
 
 
 
-<br/>  
 
-<div align="center"><img src="https://komarev.com/ghpvc/?username=bishal-1022&&style=flat-square" align="center" />
-</div>  
-
-<br/>  
 
 <div align="center">
 
 ### Show some ❤️ by Starring some of the repositories!
 ### Thank You!
 </div>
+
+<br/>  
+
+<div align="left"><img src="https://komarev.com/ghpvc/?username=bishal-1022&&style=flat-square" align="center" />
+</div>  
+
+<br/>  
 <!--
 **bishal-1022/bishal-1022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
