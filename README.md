@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/bishal-1022">
-   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1&color=F70000&center=true&repeat=false&random=false&width=450&height=60&lines=Bishal+Yadav" alt="Bishal Yadav" /></a>
+   <img src="https://readme-typing-svg.demolab.com?font=Exo+2&duration=1&pause=1&color=F70000&center=true&repeat=false&random=false&width=450&height=60&lines=Bishal+Yadav" alt="Bishal Yadav" /></a>
 </p>
 <p align="center">
   
 <p align="center">
- <a href="Intro"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2162F7&center=true&repeat=true&random=false&height=55&lines=Certified+Ethical+Hacker;Penetration+Tester;Web+Developer;Cyber+Security+Enthusiast" alt="Typing" /></a>
+ <a href="Intro"><img src="https://readme-typing-svg.demolab.com?font=Outfit&pause=1000&color=2162F7&center=true&repeat=true&random=false&height=55&lines=Certified+Ethical+Hacker;Penetration+Tester;Web+Developer;Cyber+Security+Enthusiast" alt="Typing" /></a>
 </p>
 <p align="center">
 
